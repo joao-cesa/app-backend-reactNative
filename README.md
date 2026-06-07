@@ -17,15 +17,11 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
    ```bash
    git clone [https://github.com/joao-cesa/app-backend-reactNative.git](https://github.com/joao-cesa/app-backend-reactNative.git)
 
-2. **Acesse a pasta do projeto:**
-
-cd backend
-
-3. **Instale as dependências:**
+2. **Instale as dependências:**
 
 npm install
 
-4. **Inicie o servidor em modo de desenvolvimento:**
+3. **Inicie o servidor em modo de desenvolvimento:**
 
 npm run dev
 
